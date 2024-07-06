@@ -1,14 +1,14 @@
 [
 {
-  "directory": "C:/Users/User/Desktop/projects/Class vector/build",
-  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\vector.dir\\main.cpp.obj -c \"C:\\Users\\User\\Desktop\\projects\\Class vector\\main.cpp\"",
-  "file": "C:/Users/User/Desktop/projects/Class vector/main.cpp",
+  "directory": "C:/Users/User/Desktop/projects/Fall_semester/Class vector/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\vector.dir\\main.cpp.obj -c \"C:\\Users\\User\\Desktop\\projects\\Fall_semester\\Class vector\\main.cpp\"",
+  "file": "C:/Users/User/Desktop/projects/Fall_semester/Class vector/main.cpp",
   "output": "CMakeFiles/vector.dir/main.cpp.obj"
 },
 {
-  "directory": "C:/Users/User/Desktop/projects/Class vector/build",
-  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\vector.dir\\vector.cpp.obj -c \"C:\\Users\\User\\Desktop\\projects\\Class vector\\vector.cpp\"",
-  "file": "C:/Users/User/Desktop/projects/Class vector/vector.cpp",
+  "directory": "C:/Users/User/Desktop/projects/Fall_semester/Class vector/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\vector.dir\\vector.cpp.obj -c \"C:\\Users\\User\\Desktop\\projects\\Fall_semester\\Class vector\\vector.cpp\"",
+  "file": "C:/Users/User/Desktop/projects/Fall_semester/Class vector/vector.cpp",
   "output": "CMakeFiles/vector.dir/vector.cpp.obj"
 }
 ]

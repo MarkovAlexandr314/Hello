@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Users/User/Desktop/projects/Class vector
-BuildDirectory: C:/Users/User/Desktop/projects/Class vector/build
+SourceDirectory: C:/Users/User/Desktop/projects/Fall_semester/Class vector
+BuildDirectory: C:/Users/User/Desktop/projects/Fall_semester/Class vector/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/cmake-3.27.6-windows-x86_64/bin/cmake.exe" "C:/Users/User/Desktop/projects/Class vector"
+ConfigureCommand: "C:/cmake-3.27.6-windows-x86_64/bin/cmake.exe" "C:/Users/User/Desktop/projects/Fall_semester/Class vector"
 MakeCommand: C:/cmake-3.27.6-windows-x86_64/bin/cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

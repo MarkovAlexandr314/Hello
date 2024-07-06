@@ -1,44 +1,38 @@
 [
 {
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\Graph_lib\\Graph.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\Graph_lib\\Graph.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/Graph_lib/Graph.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/Graph_lib/Graph.cpp.obj"
+  "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\main.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\Summer_Time\\Arc\\main.cpp",
+  "file": "C:/Users/User/Desktop/projects/Summer_Time/Arc/main.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.obj"
 },
 {
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\Graph_lib\\GUI.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\Graph_lib\\GUI.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/Graph_lib/GUI.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/Graph_lib/GUI.cpp.obj"
+  "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\__\\__\\lib\\Graph_lib\\Graph.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\lib\\Graph_lib\\Graph.cpp",
+  "file": "C:/Users/User/Desktop/projects/lib/Graph_lib/Graph.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/Graph.cpp.obj"
 },
 {
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\Graph_lib\\Window.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\Graph_lib\\Window.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/Graph_lib/Window.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/Graph_lib/Window.cpp.obj"
+  "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\__\\__\\lib\\Graph_lib\\GUI.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\lib\\Graph_lib\\GUI.cpp",
+  "file": "C:/Users/User/Desktop/projects/lib/Graph_lib/GUI.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/GUI.cpp.obj"
 },
 {
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\Graph_ext.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\Graph_ext.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/Graph_ext.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/Graph_ext.cpp.obj"
+  "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\__\\__\\lib\\vec\\vec2d.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\lib\\vec\\vec2d.cpp",
+  "file": "C:/Users/User/Desktop/projects/lib/vec/vec2d.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/vec/vec2d.cpp.obj"
 },
 {
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\logic.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\logic.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/logic.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/logic.cpp.obj"
+  "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\__\\__\\lib\\Graph_lib\\Window.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\lib\\Graph_lib\\Window.cpp",
+  "file": "C:/Users/User/Desktop/projects/lib/Graph_lib/Window.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/Window.cpp.obj"
 },
 {
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\logic_shapes.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\logic_shapes.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/logic_shapes.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/logic_shapes.cpp.obj"
-},
-{
-  "directory": "C:/Users/User/Desktop/projects/build/LogicElements",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/logic_elements.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\logic_elements.dir\\main.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\LogicElements\\main.cpp",
-  "file": "C:/Users/User/Desktop/projects/LogicElements/main.cpp",
-  "output": "LogicElements/CMakeFiles/logic_elements.dir/main.cpp.obj"
+  "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\__\\__\\lib\\Graph_lib\\GraphShape.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\lib\\Graph_lib\\GraphShape.cpp",
+  "file": "C:/Users/User/Desktop/projects/lib/Graph_lib/GraphShape.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/GraphShape.cpp.obj"
 }
 ]

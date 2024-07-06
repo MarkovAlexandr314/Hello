@@ -10,21 +10,15 @@ include_directories(
     ${LIB_DIR}
 )
 
+add_subdirectory(Summer_Time/Arc)
+
+
 # add_subdirectory(11/shape_primitives)
 # add_subdirectory(sem23_project)
-
-add_subdirectory(LogicElements)
+# add_subdirectory(LogicElements)
+# add_subdirectory(Fall_semester/graphics_classes/Arc)
 # add_subdirectory(a/Titanfall-3)
 # add_subdirectory(Chess_n_b)
-
 # add_subdirectory(Project/Titanfall-3)
-
 # add_subdirectory(11/chessboard)
-
 # add_subdirectory(11/my)
-
-
-
-
-
-

@@ -37,16 +37,16 @@ void Vector<T, A>::push_back(const T &val)
     ++sz;
 }
 
-template <typename T, typename A>
-void Vector<T, A>::resize(int newsize, T val = T())
-{ // можем менять размер вектора
-    reserve(newsize);
-    for (int i{sz}; i < newsize; ++i)
-        alloc.construct(&elem[i], val);
-    for (int i{newsize}; i < sz; ++i)
-        alloc.destroy(&elem[i]);
-    sz = newsize;
-}
+// template <typename T, typename A>
+// void Vector<T, A>::resize(int newsize, T val = T())
+// { // можем менять размер вектора
+//     reserve(newsize);
+//     for (int i{sz}; i < newsize; ++i)
+//         alloc.construct(&elem[i], val);
+//     for (int i{newsize}; i < sz; ++i)
+//         alloc.destroy(&elem[i]);
+//     sz = newsize;
+// }
 
 template <typename T, typename A>
 void Vector<T, A>::reserve(int newalloc)

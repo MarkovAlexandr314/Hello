@@ -1,6 +1,6 @@
 CMakeFiles/vector.dir/vector.cpp.obj: \
- C:\Users\User\Desktop\projects\Class\ vector\vector.cpp \
- C:\Users\User\Desktop\projects\Class\ vector\vector.h \
+ C:\Users\User\Desktop\projects\Fall_semester\Class\ vector\vector.cpp \
+ C:\Users\User\Desktop\projects\Fall_semester\Class\ vector\vector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

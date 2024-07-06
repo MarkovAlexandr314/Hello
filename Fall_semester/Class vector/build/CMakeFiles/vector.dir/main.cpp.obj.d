@@ -1,5 +1,5 @@
 CMakeFiles/vector.dir/main.cpp.obj: \
- C:\Users\User\Desktop\projects\Class\ vector\main.cpp \
+ C:\Users\User\Desktop\projects\Fall_semester\Class\ vector\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -142,7 +142,7 @@ CMakeFiles/vector.dir/main.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- C:\Users\User\Desktop\projects\Class\ vector\vector.h \
+ C:\Users\User\Desktop\projects\Fall_semester\Class\ vector\vector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \

@@ -78,7 +78,7 @@ int main()
     gold_spiral(n, angle);
     for (int i = 0; i < vr.size(); ++i)
     {
-        vr[i].set_color(Color::yellow);
+        vr[i].set_color(Color::black);
         win.attach(vr[i]);
     }
 
