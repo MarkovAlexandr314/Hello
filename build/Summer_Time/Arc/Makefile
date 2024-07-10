@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = C:\Users\User\Desktop\projects\build
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake cache editor..."
-	C:\cmake-3.27.6-windows-x86_64\bin\cmake-gui.exe -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\CMake\bin\cmake-gui.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -294,29 +294,29 @@ __/__/lib/vec/vec2d.cpp.s:
 	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/vec/vec2d.cpp.s
 .PHONY : __/__/lib/vec/vec2d.cpp.s
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+chapter_15_6.obj: chapter_15_6.cpp.obj
+.PHONY : chapter_15_6.obj
 
 # target to build an object file
-main.cpp.obj:
-	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+chapter_15_6.cpp.obj:
+	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj
+.PHONY : chapter_15_6.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+chapter_15_6.i: chapter_15_6.cpp.i
+.PHONY : chapter_15_6.i
 
 # target to preprocess a source file
-main.cpp.i:
-	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.i
-.PHONY : main.cpp.i
+chapter_15_6.cpp.i:
+	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.i
+.PHONY : chapter_15_6.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+chapter_15_6.s: chapter_15_6.cpp.s
+.PHONY : chapter_15_6.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.s
-.PHONY : main.cpp.s
+chapter_15_6.cpp.s:
+	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.s
+.PHONY : chapter_15_6.cpp.s
 
 # Help Target
 help:
@@ -346,9 +346,9 @@ help:
 	@echo ... __/__/lib/vec/vec2d.obj
 	@echo ... __/__/lib/vec/vec2d.i
 	@echo ... __/__/lib/vec/vec2d.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... chapter_15_6.obj
+	@echo ... chapter_15_6.i
+	@echo ... chapter_15_6.s
 .PHONY : help
 
 

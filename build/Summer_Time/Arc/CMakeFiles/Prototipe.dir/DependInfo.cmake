@@ -13,7 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/User/Desktop/projects/lib/Graph_lib/GraphShape.cpp" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/GraphShape.cpp.obj" "gcc" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/GraphShape.cpp.obj.d"
   "C:/Users/User/Desktop/projects/lib/Graph_lib/Window.cpp" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/Window.cpp.obj" "gcc" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/Graph_lib/Window.cpp.obj.d"
   "C:/Users/User/Desktop/projects/lib/vec/vec2d.cpp" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/vec/vec2d.cpp.obj" "gcc" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/vec/vec2d.cpp.obj.d"
-  "C:/Users/User/Desktop/projects/Summer_Time/Arc/main.cpp" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.obj" "gcc" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.obj.d"
+  "C:/Users/User/Desktop/projects/Summer_Time/Arc/chapter_15_6.cpp" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj" "gcc" "Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

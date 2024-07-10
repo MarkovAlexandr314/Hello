@@ -1,9 +1,9 @@
 [
 {
   "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\main.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\Summer_Time\\Arc\\main.cpp",
-  "file": "C:/Users/User/Desktop/projects/Summer_Time/Arc/main.cpp",
-  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/main.cpp.obj"
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Prototipe.dir/includes_CXX.rsp -pedantic -Wall -Wextra -O3 -DNDEBUG -o CMakeFiles\\Prototipe.dir\\chapter_15_6.cpp.obj -c C:\\Users\\User\\Desktop\\projects\\Summer_Time\\Arc\\chapter_15_6.cpp",
+  "file": "C:/Users/User/Desktop/projects/Summer_Time/Arc/chapter_15_6.cpp",
+  "output": "Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj"
 },
 {
   "directory": "C:/Users/User/Desktop/projects/build/Summer_Time/Arc",

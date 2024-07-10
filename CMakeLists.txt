@@ -10,6 +10,9 @@ include_directories(
     ${LIB_DIR}
 )
 
+# add_subdirectory(Fall_semester/graphics_classes/chessboard)
+
+
 add_subdirectory(Summer_Time/Arc)
 
 

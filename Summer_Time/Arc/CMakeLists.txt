@@ -23,7 +23,7 @@ link_directories(
 
 add_executable(
     ${TARGET}
-    main.cpp
+    chapter_15_6.cpp
     ${LIB_DIR}/Graph_lib/Graph.cpp
     ${LIB_DIR}/Graph_lib/GUI.cpp
     ${LIB_DIR}/vec/vec2d.cpp

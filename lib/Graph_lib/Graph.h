@@ -428,6 +428,7 @@ namespace Graph_lib
   struct Marks : Marked_polyline
   {
     Marks(const std::string &m) : Marked_polyline{m} { set_color(Color{Color::invisible}); }
+    Marks(const std::string &m, std::initializer_list<Point> lst) : Marked_polyline{m, lst} { set_color(Color{Color::invisible}); };
   };
 
   struct Mark : Marks
@@ -482,6 +483,129 @@ namespace Graph_lib
     int w, h, cx, cy; // define "masking box" within image relative to position (cx,cy)
     Fl_Image *p;
     Text fn;
+  };
+
+  // Everything described below was not added by the author
+  struct Arc1 : Shape
+  {
+    Arc1(const Point &p, int ww, int hh, double a_s, double a_e)
+        : w{ww}, h{hh}, angle_start{a_s}, angle_end{a_e}
+    {
+      add(Point{p.x - ww, p.y - hh});
+      set_color(Color::black);
+    }
+
+    void draw_lines() const override;
+
+    Point center() const { return {point(0).x + w, point(0).y + h}; }
+
+    void set_major(int ww) { w = ww; };
+
+    int major() const { return w; }
+
+    void set_minor(int hh) { h = hh; };
+
+    int minor() const { return h; }
+
+    ~Arc1(){};
+
+  private:
+    int w;
+    int h;
+    double angle_start{};
+    double angle_end{};
+  };
+
+  struct Box : Shape
+  {
+    Box(const Point &xy, int ww, int hh, int rr) : w{ww}, h{hh}, r{rr} { Shape::add(xy); }
+
+    void draw_lines() const override;
+
+    int height() { return h; };
+
+    int weight() { return w; };
+
+    int rounding() { return r; };
+
+  private:
+    int w;
+    int h;
+    int r;
+  };
+
+  struct Arrow : Shape
+  {
+    Arrow(const Point &xy, int ww, int hh, double a) : w{ww}, h{hh}, angle{a} { Shape::add(xy); };
+
+    void draw_lines() const override;
+
+    int height() const { return h; };
+
+    int weight() const { return w; };
+
+    double get_angle() const { return angle; };
+
+  private:
+    int w;
+    int h;
+    double angle;
+  };
+
+  struct Regular_hexagon : Shape
+  {
+    Regular_hexagon(const Point &xy, int rr) : r{rr} { Shape::add(xy); }
+
+    void draw_lines() const override;
+
+    int radius() { return r; }
+
+  private:
+    int r;
+  };
+
+  struct Striped_rectangle : Rectangle
+  {
+    Striped_rectangle(const Point &p, int ww, int hh)
+        : Rectangle(p, ww, hh), w{ww}, h{hh} {};
+
+    void draw_lines() const override;
+
+  private:
+    int w;
+    int h;
+  };
+
+  struct Striped_circle : Circle
+  {
+    Striped_circle(const Point &pp, int rr)
+        : Circle(pp, rr), p{pp} {};
+
+    void draw_lines() const override;
+
+  private:
+    int get_y(Point p, int x, int r, int &&c) const
+    {
+      return sqrt(r * r - (x - p.x) * (x - p.x)) * c + p.y;
+    }
+
+    Point p;
+  };
+
+  using Fc = std::function<double(double)>;
+
+  struct Fct : Function
+  {
+    Fct(Fc ff, double rr1, double rr2, Point orig_, int count_ = 100, double xscale_ = 25, double yscale_ = 25) : Function(ff, rr1, rr2, orig_, count_, xscale_, yscale_) {}
+
+  private:
+    Fc f;
+    double r1;
+    double r2;
+    Point orig;
+    int count;
+    double xscale;
+    double yscale;
   };
 
 } // namespace Graph_lib
