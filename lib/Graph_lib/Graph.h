@@ -8,6 +8,7 @@
 
 #include "Point.h"
 #include "fltk.h"
+#include "windows.h"
 
 namespace Graph_lib
 {
@@ -594,9 +595,9 @@ namespace Graph_lib
 
   using Fc = std::function<double(double)>;
 
-  struct Fct : Function
+  struct Fct1 : Function
   {
-    Fct(Fc ff, double rr1, double rr2, Point orig_, int count_ = 100, double xscale_ = 25, double yscale_ = 25) : Function(ff, rr1, rr2, orig_, count_, xscale_, yscale_) {}
+    Fct1(Fc ff, double rr1, double rr2, Point orig_, int count_ = 100, double xscale_ = 25, double yscale_ = 25) : Function(ff, rr1, rr2, orig_, count_, xscale_, yscale_) {}
 
   private:
     Fc f;

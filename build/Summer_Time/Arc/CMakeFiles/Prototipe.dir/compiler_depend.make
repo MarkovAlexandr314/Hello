@@ -1827,7 +1827,7 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/vec/vec2d.cpp.obj: C:/Users/U
   C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/User/Desktop/projects/lib/vec/vec2d.h
 
-Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Desktop/projects/Summer_Time/Arc/chapter_15_6.cpp \
+Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter12.cpp.obj: C:/Users/User/Desktop/projects/Summer_Time/Arc/chapter12.cpp \
   C:/Users/User/Desktop/projects/lib/Graph_lib/GUI.h \
   C:/Users/User/Desktop/projects/lib/Graph_lib/Graph.h \
   C:/Users/User/Desktop/projects/lib/Graph_lib/Point.h \
@@ -1915,7 +1915,6 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Des
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
@@ -1925,7 +1924,6 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Des
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
@@ -1954,7 +1952,6 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Des
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
@@ -1999,7 +1996,6 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Des
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
@@ -2010,7 +2006,6 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Des
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
@@ -2035,10 +2030,8 @@ Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj: C:/Users/User/Des
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -2894,8 +2887,6 @@ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
 
-C:/Users/User/Desktop/projects/Summer_Time/Arc/chapter_15_6.cpp:
-
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
@@ -3265,5 +3256,7 @@ C:/Users/User/Desktop/projects/lib/Graph_lib/Window.cpp:
 C:/Users/User/Desktop/projects/lib/vec/vec2d.cpp:
 
 C:/Users/User/Desktop/projects/lib/vec/vec2d.h:
+
+C:/Users/User/Desktop/projects/Summer_Time/Arc/chapter12.cpp:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:

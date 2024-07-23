@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/User/Desktop/projects/build/Summer_Time/Arc/cmake_install.cmake")
+  include("C:/Users/User/Desktop/projects/build/Fall_semester/Class_vector/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

@@ -21,9 +21,11 @@ link_directories(
     ${FLTK_INCLUDE_DIR}/../lib
 )
 
+file(COPY DrStone.jpg DESTINATION ${CMAKE_BINARY_DIR}/Summer_Time/Arc) 
+
 add_executable(
     ${TARGET}
-    chapter_15_6.cpp
+    chapter12.cpp
     ${LIB_DIR}/Graph_lib/Graph.cpp
     ${LIB_DIR}/Graph_lib/GUI.cpp
     ${LIB_DIR}/vec/vec2d.cpp

@@ -294,29 +294,29 @@ __/__/lib/vec/vec2d.cpp.s:
 	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/__/__/lib/vec/vec2d.cpp.s
 .PHONY : __/__/lib/vec/vec2d.cpp.s
 
-chapter_15_6.obj: chapter_15_6.cpp.obj
-.PHONY : chapter_15_6.obj
+chapter12.obj: chapter12.cpp.obj
+.PHONY : chapter12.obj
 
 # target to build an object file
-chapter_15_6.cpp.obj:
-	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.obj
-.PHONY : chapter_15_6.cpp.obj
+chapter12.cpp.obj:
+	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter12.cpp.obj
+.PHONY : chapter12.cpp.obj
 
-chapter_15_6.i: chapter_15_6.cpp.i
-.PHONY : chapter_15_6.i
+chapter12.i: chapter12.cpp.i
+.PHONY : chapter12.i
 
 # target to preprocess a source file
-chapter_15_6.cpp.i:
-	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.i
-.PHONY : chapter_15_6.cpp.i
+chapter12.cpp.i:
+	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter12.cpp.i
+.PHONY : chapter12.cpp.i
 
-chapter_15_6.s: chapter_15_6.cpp.s
-.PHONY : chapter_15_6.s
+chapter12.s: chapter12.cpp.s
+.PHONY : chapter12.s
 
 # target to generate assembly for a file
-chapter_15_6.cpp.s:
-	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter_15_6.cpp.s
-.PHONY : chapter_15_6.cpp.s
+chapter12.cpp.s:
+	cd /d C:\Users\User\Desktop\projects\build && $(MAKE) $(MAKESILENT) -f Summer_Time\Arc\CMakeFiles\Prototipe.dir\build.make Summer_Time/Arc/CMakeFiles/Prototipe.dir/chapter12.cpp.s
+.PHONY : chapter12.cpp.s
 
 # Help Target
 help:
@@ -346,9 +346,9 @@ help:
 	@echo ... __/__/lib/vec/vec2d.obj
 	@echo ... __/__/lib/vec/vec2d.i
 	@echo ... __/__/lib/vec/vec2d.s
-	@echo ... chapter_15_6.obj
-	@echo ... chapter_15_6.i
-	@echo ... chapter_15_6.s
+	@echo ... chapter12.obj
+	@echo ... chapter12.i
+	@echo ... chapter12.s
 .PHONY : help
 
 
